@@ -1,6 +1,6 @@
 # 🟢 Fabry-Multimedia-Kit (Matrix Edition)
 
-> *"Purtroppo nessuno può essere told cos'è la Matrix. Devi vederla con i tuoi occhi."* 
+> *"Purtroppo nessuno può dirti cos'è la Matrix. Devi vederla con i tuoi occhi."* 
 > *(Ma per i video e l'audio, bastano i miei script.)*
 
 Benvenuto nel **Multimedia Kit**, la collezione definitiva di strumenti da riga di comando e GUI per domare FFmpeg senza dover digitare parametri chilometrici. 
