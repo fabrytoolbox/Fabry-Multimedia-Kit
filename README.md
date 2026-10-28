@@ -9,7 +9,7 @@ Tutti i tool condividono la stessa identica estetica (GUI Matrix) per farti sent
 ## 🧰 Gli Strumenti
 
 ### 🎵 Audio
-*   **[MP3-Normalizza]([LINK_AL_TUO_REPO])** — Normalizzatore EBU R128 con dry-run, log ed esclusioni. Perché il volume del tuo lettore MP3 non deve farti saltare dalla sedia.
+*   **[MP3-Normalizza](https://github.com/fabrytoolbox/MP3_Normalizza)** — Normalizzatore EBU R128 con dry-run, log ed esclusioni. Perché il volume del tuo lettore MP3 non deve farti saltare dalla sedia.
 *   **[Audio-Silence-Tools]([LINK_AL_TUO_REPO])** — Rileva e taglia i silenzi in testa e coda degli MP3. Addio momenti di imbarazzante silenzio.
 
 ### 🎬 Video
