@@ -1,22 +1,25 @@
-# 🟢 Fabry-System-Kit (Matrix Edition)
+# 🟢 Fabry-Multimedia-Kit (Matrix Edition)
 
-> *"Io non ho paura. Io sono l'utente amministratore."*
+> *"Purtroppo nessuno può essere told cos'è la Matrix. Devi vederla con i tuoi occhi."* 
+> *(Ma per i video e l'audio, bastano i miei script.)*
 
-Benvenuto nel **System Kit**. Qui non si scherza con i multimedia: qui si mette mano al sistema operativo, alla rete, alle configurazioni e ai processi. 
-Una cassetta degli attrezzi pesante, per chi vuole il controllo totale su Windows, sempre con l'inconfondibile interfaccia Matrix.
+Benvenuto nel **Multimedia Kit**, la collezione definitiva di strumenti da riga di comando e GUI per domare FFmpeg senza dover digitare parametri chilometrici. 
+Tutti i tool condividono la stessa identica estetica (GUI Matrix) per farti sentire a casa, ma ognuno ha i suoi superpoteri.
 
 ## 🧰 Gli Strumenti
 
-### 🖥️ Sistema & Manutenzione
-*   **[App-Uninstaller-Tool]([LINK_AL_TUO_REPO])** — Disinstallatore robusto con Ghost Hunter, Deep Scan, GUI Matrix e CLI. Quando "Pannello di Controllo" non basta più.
-*   **[System-Sentinel-Matrix]([LINK_AL_TUO_REPO])** — Task Manager Matrix con protezione processi critici. Tieni d'occhio chi osa consumare la tua RAM.
-*   **[Norton-NIS-RAM-Monitor]([LINK_AL_TUO_REPO])** — Monitora il consumo di RAM dei processi di Norton Internet Security. Perché l'antivirus non deve rallentarti.
-*   **[IsoMounter-Matrix]([LINK_AL_TUO_REPO])** — Monta e smonta ISO con GUI Matrix, log e pulizia automatica. Addio utility di terze parti.
-*   **[Subst-Manager]([LINK_AL_TUO_REPO])** — GUI per gestione comando Subst con persistenza all'avvio. Mappa le tue cartelle come un pro.
+### 🎵 Audio
+*   **[MP3-Normalizza]([LINK_AL_TUO_REPO])** — Normalizzatore EBU R128 con dry-run, log ed esclusioni. Perché il volume del tuo lettore MP3 non deve farti saltare dalla sedia.
+*   **[Audio-Silence-Tools]([LINK_AL_TUO_REPO])** — Rileva e taglia i silenzi in testa e coda degli MP3. Addio momenti di imbarazzante silenzio.
 
-### 🌐 Rete & Sicurezza
-*   **[MATRIX_HOSTS]([LINK_AL_TUO_REPO])** — Gestione file hosts con GUI Matrix, validazione e backup. Blocca la pubblicità o reindirizza il traffico con stile.
-*   **[NetAdapter-Manager]([LINK_AL_TUO_REPO])** — Gestione avanzata schede di rete (IP, DNS, DHCP, SubNet Mask, Gateway). Il coltellino svizzero del sysadmin.
+### 🎬 Video
+*   **[Fabry-Frame-Extractor]([LINK_AL_TUO_REPO])** — Converte video in singoli frame con upscale. Per catturare quel fotogramma perfetto.
+*   **[Fabry-MKV-Converter]([LINK_AL_TUO_REPO])** — Converte video MKV a MP4 o da H265 a H264. La compatibilità è tutto.
+*   **[Video-Scene-Splitter]([LINK_AL_TUO_REPO])** — Estrae scene da video con GUI Matrix e auto-FFmpeg. Dividi et impera.
+*   **[Video-Joiner]([LINK_AL_TUO_REPO])** — Unisce video con FFmpeg, filtri, NVENC e GUI Matrix. Perché a volte un video solo non basta.
+
+### 🖼️ Immagini
+*   **[Image-Converter]([LINK_AL_TUO_REPO])** — Convertitore immagini (WebP, PNG, JPEG) con ottimizzazione e sharpening. La compressione intelligente.
 
 ---
 *🤖 Creato da Fabrizio. Tutti i tool sono scritti in PowerShell e ottimizzati per Windows.*
